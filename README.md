@@ -1,4 +1,4 @@
-![Alt text](https://github.com/spacedoe/spacedoe/blob/main/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg "image")
+[logo]: https://github.com/spacedoe/spacedoe/blob/main/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg "Logo Image"
 
 # Hi! I'm Anna, a Berlin-based Full-Stack Apprentice. 👩🏻‍💻
 
