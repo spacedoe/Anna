@@ -6,7 +6,4 @@
 3. Previously worked in Education
 4. Currently studying at [Spiced](https://www.spiced-academy.com/en)
 
-# Todoist Stats
-
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=spacedoe.visitor-badge&left_color=green&right_color=red)
