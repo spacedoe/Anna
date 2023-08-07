@@ -1,3 +1,5 @@
+![Alt text](https://unsplash.com/photos/_UeY8aTI6d0)
+
 # Hi! I'm Anna, a Berlin-based Full-Stack Apprentice. 👩🏻‍💻
 
 ## Fun facts about me: 
