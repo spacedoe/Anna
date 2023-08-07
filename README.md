@@ -1,4 +1,4 @@
-![Alt text](https://unsplash.com/photos/_UeY8aTI6d0 "image")
+![Alt text](https://github.com/spacedoe/spacedoe/blob/main/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg "image")
 
 # Hi! I'm Anna, a Berlin-based Full-Stack Apprentice. 👩🏻‍💻
 
