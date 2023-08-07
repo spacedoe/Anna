@@ -9,7 +9,7 @@
 1. Born and raised in Russia 🇷🇺
 2. Lived in 6 Countries 🇷🇺 🇨🇳 🇬🇧 🇲🇹 🇩🇪
 3. Previously worked in Education
-4. Currently studying at [Spiced](https://www.spiced-academy.com/en)
+4. Currently studying **Full Stack Web Development** at [Spiced](https://www.spiced-academy.com/en)
 
 ![Static Badge](https://img.shields.io/badge/Welcome!-blue)
 
