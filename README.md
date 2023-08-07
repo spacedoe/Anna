@@ -6,6 +6,6 @@
 3. Previously worked in Education
 4. Currently studying at [Spiced](https://www.spiced-academy.com/en)
 
-![Static Badge](https://img.shields.io/badge/Feel free to get in touch!-blue)
+![Static Badge](https://img.shields.io/badge/Get in touch!-blue)
 
 
