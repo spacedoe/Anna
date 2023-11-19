@@ -1,7 +1,8 @@
-# 👋 Hi there! I'm Anna, a Berlin-based Web Developer. 👩🏻‍💻
+# 👋 Hi there! I'm Anna, a Berlin-based Full Stack Web Developer. 👩🏻‍💻
 
 
-I am currently studying **Full Stack Web Development** at [Spiced](https://www.spiced-academy.com/en)
+- I successfully completed **[Full Stack Web Development** programme](https://www.credential.net/profile/annasteele486234/wallet) at [Spiced](https://www.spiced-academy.com/en)
+- 
 
 
 
